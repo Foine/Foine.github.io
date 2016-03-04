@@ -1,0 +1,6 @@
+{
+  "js_dependencies": [
+    "bootstrap/js/dropdown.js",
+    "bootstrap/js/collapse.js"
+  ]
+}
